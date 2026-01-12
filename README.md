@@ -1,3 +1,3 @@
-# LeetCode-Solutions-
+# My LeetCode Journey 2026
 LeetCode-Solutions
-「利用哈希表將 \(O(n^{2})\) 降為 \(O(n)\)，核心在於不主動搜尋，讓對象主動找上門。」
+
