@@ -1,0 +1,3 @@
+EN:Utilized Fast & Slow pointers to swap non-zero elements forward, achieving an in-place \(O(n)\) solution that preserves element order and minimizes memory usage.
+
+CN:利用快慢雙指針進行原地交換，以 \(O(n)\) 時間複雜度達成移動零元素並保留原始順序的最優解。
