@@ -1,5 +1,5 @@
 class Solution {//木桶效應（水位由短板決定）
-public:
+公共:
     int trap(vector<int>& height) {//每一個陣列中元素的高度
         int n = height.size();//獲取陣列的長度。
         int res = 0;//初始化結果變數 res（result 的縮寫），用來累加每一列算出來的水量。
