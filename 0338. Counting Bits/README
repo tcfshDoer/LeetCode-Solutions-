@@ -1,0 +1,6 @@
+EN:Leveraged Dynamic Programming and Bit Manipulation, utilizing the i & (i - 1) property to achieve an optimal (O(n)) linear time complexity.he core value of this approach lies in establishing 
+the relationship between subproblems. By utilizing the x & (x-1) property to clear the Least Significant Bit (LSB), 
+it transforms the bit counting of the current number into a lookup operation of a previously computed item, achieving an optimal \(O(n)\) linear time complexity.
+
+CN:結合動態規劃與位元運算，利用 i & (i - 1) 建立狀態轉移方程式，將位元統計優化至線性時間。這題的核心價值在於建立『子問題』的關聯性。利用 x & (x-1) 消除最低有效位（LSB）的特性，
+將當前數字的位元統計轉化為已計算項目的查表操作，實現了 (O(n)) 的極致線性運算。
